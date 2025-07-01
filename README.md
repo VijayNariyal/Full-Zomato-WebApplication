@@ -2,6 +2,9 @@
 
 A full-stack restaurant discovery and food ordering platform built with React, Node.js, Express, and MongoDB.
 
+![image](https://github.com/user-attachments/assets/fa8f810c-435a-4591-85f6-6b1d36f4e93f)
+
+
 ## 🚀 Features
 
 ### User Features
