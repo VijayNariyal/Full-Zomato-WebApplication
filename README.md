@@ -2,11 +2,11 @@
 
 ## 🚀 This application currently working on just own machine not on any VM beacuse of backend configuration
 
-## to work around this we have to do SSH Tunnel Setup on our own machine
+### to work around this we have to do SSH Tunnel Setup on our own machine
 
 ### The commands you have to run on your system not on the VM:** ssh -L 3000:localhost:3000 -L 5000:localhost:5000 azureuser@your-public-ip**
 
-## Now run localhost:3000 on your system from anywhere it will display the resturent dishes
+### Now run localhost:3000 on your system from anywhere it will display the resturent dishes
 
 A full-stack restaurant discovery and food ordering platform built with React, Node.js, Express, and MongoDB.
 
